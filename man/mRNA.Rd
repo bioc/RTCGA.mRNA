@@ -2,6 +2,7 @@
 % Please edit documentation in R/mRNA_datasets.R
 \docType{data}
 \name{mRNA}
+\alias{mRNA}
 \alias{BRCA.mRNA}
 \alias{BRCA.mRNA,COAD.mRNA,COADREAD.mRNA,GBMLGG.mRNA,KIPAN.mRNA,KIRC.mRNA,KIRP.mRNA,LGG.mRNA,LUAD.mRNA,LUSC.mRNA,OV.mRNA,READ.mRNA,UCEC.mRNA}
 \alias{COAD.mRNA}
@@ -16,7 +17,6 @@
 \alias{OV.mRNA}
 \alias{READ.mRNA}
 \alias{UCEC.mRNA}
-\alias{mRNA}
 \title{mRNA datasets from TCGA project}
 \source{
 \url{http://gdac.broadinstitute.org/}
@@ -74,4 +74,3 @@ browseVignettes("RTCGA")
 
 }
 \keyword{datasets}
-
